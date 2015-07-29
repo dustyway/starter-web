@@ -13,3 +13,5 @@ get a grip of git
 ## Deployment
 
 ## How To Contribute
+
+sign up and submit patches
