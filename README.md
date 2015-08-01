@@ -14,6 +14,8 @@ get a grip of git
 
 ## How To Contribute
 
+Please fork this reposity and then issue pull request for review.
+
 ### Copyright
 2014 Git.Training.
 
