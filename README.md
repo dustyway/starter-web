@@ -14,4 +14,7 @@ get a grip of git
 
 ## How To Contribute
 
+### Copyright
+2014 Git.Training.
+
 sign up and submit patches
